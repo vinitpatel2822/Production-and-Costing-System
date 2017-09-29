@@ -1,10 +1,13 @@
 # Production-and-Costing-System
-Objectives
+Objectives :-
+
 •	To decrease human effort.
 •	It gets easy to keep an eye on daily production.
 •	It is more efficient because it reduces common human errors.
 •	Less time consuming as it saves the time of manually entering the data in excel sheet. 	
-Modules
+
+Modules :-
+
 	Costing:  
 This module takes the end-user’s requirement and accordingly calculates the total cost of the product. There are various inputs like measurement of product, number of ply, weight of raw material. This produces size of intermediate product. Once the weight of product is obtained, the actual price of the product is determined. It further adds labor and printing charge, profit margin to reach the final cost of the product.
 
